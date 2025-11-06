@@ -42,11 +42,9 @@
 
 \## 🎮 Sở thích
 
-\- ⚽ Thể thao: \[Môn thể thao]
+\- ⚽ Thể thao: Cầu lông, Bóng rổ
 
-\- 🎯 Khác: \[Sở thích khác]
-
-
+\- 🎯 Khác: Xem phim
 
 \## 💭 Quote yêu thích
 
