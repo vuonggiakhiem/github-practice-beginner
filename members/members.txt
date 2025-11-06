@@ -10,7 +10,8 @@
 ## Danh sách:
 
 <!-- Thêm thông tin của bạn ở dưới dòng này -->
-- Maintainer - HUST/IT - maintainer@example.com - @maintainer
+- Vương Gia Khiêm - HUST/CK - khiemv75@gmail.com - @vuonggiakhiem
+
 
 <!-- 
 Ví dụ:
